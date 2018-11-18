@@ -1,0 +1,12 @@
+/Users/Nidhi/eclipse-workspace/tradeReportGenerator/src/main/java/com/jpmc/fx/tradereport/service/RankingsService.java
+/Users/Nidhi/eclipse-workspace/tradeReportGenerator/src/main/java/com/jpmc/fx/tradereport/util/FileReaderUtil.java
+/Users/Nidhi/eclipse-workspace/tradeReportGenerator/src/main/java/com/jpmc/fx/tradereport/handler/TradeReportHandler.java
+/Users/Nidhi/eclipse-workspace/tradeReportGenerator/src/main/java/com/jpmc/fx/tradereport/DailyTradeReportGenerator.java
+/Users/Nidhi/eclipse-workspace/tradeReportGenerator/src/main/java/com/jpmc/fx/tradereport/util/DateUtil.java
+/Users/Nidhi/eclipse-workspace/tradeReportGenerator/src/main/java/com/jpmc/fx/tradereport/calender/SunToThursCalendar.java
+/Users/Nidhi/eclipse-workspace/tradeReportGenerator/src/main/java/com/jpmc/fx/tradereport/model/Instruction.java
+/Users/Nidhi/eclipse-workspace/tradeReportGenerator/src/main/java/com/jpmc/fx/tradereport/validator/TradeValidator.java
+/Users/Nidhi/eclipse-workspace/tradeReportGenerator/src/main/java/com/jpmc/fx/tradereport/service/USDSettlementService.java
+/Users/Nidhi/eclipse-workspace/tradeReportGenerator/src/main/java/com/jpmc/fx/tradereport/calender/BaseCalendar.java
+/Users/Nidhi/eclipse-workspace/tradeReportGenerator/src/main/java/com/jpmc/fx/tradereport/calender/DefaultCalendar.java
+/Users/Nidhi/eclipse-workspace/tradeReportGenerator/src/main/java/com/jpmc/fx/tradereport/model/TradeInstruction.java
