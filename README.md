@@ -5,8 +5,11 @@ DailyTradeReportingEngine
 Problem Statement :
 
 A Daily Trade Reporting Engine for incoming instructions. Its input is a set of instructions and its output is a report printed in console with below attributes.
-==> Amount in USD settled incoming everyday
+
+==> Amount in USD settled incoming everyday   
+
 ==> Amount in USD settled outgoing everyday
+
 ==> Ranking of entities based on incoming and outgoing amount. Eg: If entity hsbc instructs the highest amount for a buy instruction, then hsbc is rank 1 for outgoing
 
 Sample Input Data from CSV:
